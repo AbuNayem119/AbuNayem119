@@ -1,6 +1,6 @@
 # Hey there! I'm Abu Nayem 👋
 
-![Banner Image](https://your-banner-image-url.com)
+![Banner Image](https://i.imgur.com/d7lcOFs.jpg)
 
 ## 👨‍💻 Name & Designation
 **Abu Nayem**  
