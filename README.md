@@ -2,6 +2,10 @@
 
 ![Banner Image](https://your-banner-image-url.com)
 
+## 👨‍💻 Name & Designation
+**Abu Nayem**  
+**Full Stack Developer**  
+
 ## 🚀 About Me
 Hey! I'm Abu Nayem, a **Full Stack Developer** who enjoys building awesome web applications with **React.js, Next.js, Node.js, Express.js, and MongoDB**. I love learning new things, solving problems, and creating smooth, user-friendly experiences on the web. If it's exciting and challenging, count me in! 🚀
 
@@ -42,4 +46,3 @@ Hey! I'm Abu Nayem, a **Full Stack Developer** who enjoys building awesome web a
 
 ---
 ⭐️ Inspired by **[awesome-profile-readme](https://github.com/awesome-profile-readme)**
-
