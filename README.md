@@ -11,9 +11,10 @@ Hey! I'm Abu Nayem, a **Full Stack Developer** who enjoys building awesome web a
 
 ## 🔥 What I'm Up To
 - 🌱 Diving deeper into **Next.js & Advanced Web Development**
-- 🛠️ Building **a powerful tools website** with exciting features
+- 🛠️ Building **a powerful tools website** with **React.js, Node.js, Express.js, and MongoDB**
 - 📖 Exploring **SEO & Performance Optimization** for better user experience
 - 💡 Always open to collaborating on cool web projects!
+
 
 ## 🛠 Tech Stack
 ### Frontend
