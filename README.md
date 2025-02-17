@@ -43,7 +43,7 @@ Hey! I'm Abu Nayem, a **Full Stack Developer** who enjoys building awesome web a
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abunayem119&theme=react)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abunayem119&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abunayem119&layout=compact&theme=react&langs_count=5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abunayem119&layout=compact&theme=react&langs_count=7)
 
 
 ---
